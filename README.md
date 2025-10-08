@@ -56,7 +56,7 @@ I love combining the power of **Java**, **Flutter**, and **AI integration** to d
 
 **B.E. in Electronics & Telecommunication (Honours in AI & ML)**
 Sinhgad Technical Institutes Campus, Pune (SPPU) | 2026
-📊 CGPA: 6.75
+📊 CGPA: 7.31
 
 ---
 
