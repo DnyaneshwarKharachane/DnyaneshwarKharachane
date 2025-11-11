@@ -18,11 +18,9 @@
 
 ## 🚀 About Me
 
-I'm a **cross-platform app development enthusiast** who loves building innovative, user-friendly, and impactful software solutions.  
-I combine the power of **Java**, **Flutter**, and **AI** to create smart and scalable apps — from intelligent note assistants to real-time product comparison tools.
-
-💬 I believe in continuous learning, teamwork, and solving real-world problems through technology.  
-🌱 Currently exploring **Cloud Technologies**, **AI Integration**, and **Mobile App Scalability**.
+I'm a passionate learner and cross-platform app development enthusiast skilled in Core Java, OOP, JVM, DBMS, Flutter, Dart, and Firebase.
+I love building scalable and smart applications that blend backend logic with modern UI.
+Certified in Microsoft Azure (AZ-900) and Oracle GenAI, I’m currently exploring AI/ML, Cloud Computing, and Advanced Java DSA to enhance my development journey.
 
 ---
 
